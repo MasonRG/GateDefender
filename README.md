@@ -1,4 +1,4 @@
-# Gate Defenders
+# Gate Defender
 <i>A simple tower defense game featuring waves of enemies, three tower types, and three tower upgrade levels.</i>
 
 This project is made using Unity 5.5.1f1 for the CSC 205: 2D Computer Graphics and Image Processing course at the University of Victoria. The project was made with a group of three, with myself having assistance with some art assets from other students in the course (contributions given below).
